@@ -76,7 +76,8 @@ $$
       \sigma_{ji,j} = (\lambda u_{k,k})_{,i} + (\mu u_{i,j})_{,j} + (\mu u_{j,i})_{,j} \\
       \nabla\cdot\pmb{\sigma} = \nabla(\lambda(\nabla\cdot\mathbf{u})) + \nabla\cdot(\mu\nabla\mathbf{u}) + \nabla\cdot\left(\mu(\nabla\mathbf{u})^{\mathrm{T}}\right)
   \end{gather*}
-  $$ and assuming $\lambda$ and $\mu$ to be constant we have
+  $$
+> and assuming $\lambda$ and $\mu$ to be constant we have
 > $$
   \begin{gather*}
       \sigma_{ji,j} = (\lambda+\mu) u_{k,ki} + \mu u_{i,jj} \\
