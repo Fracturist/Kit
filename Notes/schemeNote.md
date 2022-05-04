@@ -103,7 +103,7 @@ Using **Fraction Step Method** or **Projection Method**,
 
 * 1st step:
   $$
-    \frac{\mathbf{u}^{*}-\mathbf{u}^n}{\Delta t} = \left \{ -\nabla\cdot(\mathbf{u}\otimes\mathbf{u}) + \nabla\cdot\mathbf{T} + \mathbf{f} \right \}_{n} = G(\mathbf{u}^n)
+    \frac{\mathbf{u}^{*}-\mathbf{u}^n}{\Delta t} = \left[ -\nabla\cdot(\mathbf{u}\otimes\mathbf{u}) + \nabla\cdot\mathbf{T} + \mathbf{f} \right]_{n} = G(\mathbf{u}^n)
   $$
 * 2nd step:
   $$
