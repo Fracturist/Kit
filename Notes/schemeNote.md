@@ -70,6 +70,7 @@ $$
       \pmb{\sigma} = \left( \lambda + \tfrac{2}{3}\mu \right)(\nabla\cdot\mathbf{u})\mathbf{I} + \mu\left( \nabla\mathbf{u} + (\nabla\mathbf{u})^\mathrm{T} - \tfrac{2}{3}\mu(\nabla\cdot\mathbf{u})\mathbf{I} \right)
   \end{gather*}
   $$ then calculate Cauchy's stress principle $ \sigma_{ji,j} $ or $ \nabla\cdot\pmb{\sigma} $
+
 > $$
   \begin{gather*}
       \sigma_{ji,j} = (\lambda u_{k,k})_{,i} + (\mu u_{i,j})_{,j} + (\mu u_{j,i})_{,j} \\
